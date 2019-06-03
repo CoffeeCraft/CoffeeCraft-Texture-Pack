@@ -1,0 +1,28 @@
+Vanilla Tweaks Resource Pack
+Version: 1.14
+Packs:
+	DifferentStems
+	SidewaysNuggets
+	EndlessEndRods
+	ClearerWater
+	QuieterDispensersDroppers
+	QuieterMinecarts
+	QuieterVillagers
+	QuieterFire
+	QuieterNetherPortals
+	QuieterWater
+	QuieterPistons
+	QuieterCows
+	Age25Kelp
+	StickyPistonSides
+	DirectionalHoppers
+	DiminishingTools
+	BetterObservers
+	CleanRedstoneDust
+	LowerShield
+	LowerFire
+	TransparentPumpkin
+	AlternateEnchantGlint
+	SmallerFood
+	SmootherFont
+	OldDamageSounds
