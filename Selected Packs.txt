@@ -19,8 +19,10 @@ Packs:
 	DiminishingTools
 	BetterObservers
 	CleanRedstoneDust
-	LowerShield
+	BorderlessGlass
+	BorderlessStainedGlass
 	LowerFire
+	LowerShield
 	TransparentPumpkin
 	AlternateEnchantGlint
 	SmallerFood
