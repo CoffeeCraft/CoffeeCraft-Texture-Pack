@@ -19,8 +19,6 @@ Packs:
 	DiminishingTools
 	BetterObservers
 	CleanRedstoneDust
-	BorderlessGlass
-	BorderlessStainedGlass
 	LowerFire
 	LowerShield
 	TransparentPumpkin
