@@ -1,5 +1,5 @@
 Vanilla Tweaks Resource Pack
-Version: 1.14
+Version: 1.15
 Packs:
 	DifferentStems
 	SidewaysNuggets
@@ -23,6 +23,6 @@ Packs:
 	LowerShield
 	TransparentPumpkin
 	AlternateEnchantGlint
-	SmallerFood
+	SmallerUtilities
 	SmootherFont
 	OldDamageSounds
