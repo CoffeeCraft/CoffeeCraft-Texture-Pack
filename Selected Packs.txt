@@ -27,3 +27,4 @@ Vanilla Tweaks Resource Packs:
 
 Added from elswhere:
 	Tame Wolf -> Black Lab from https://www.planetminecraft.com/mob-skin/black-lab-4559911/
+	Custom Villager Voices from https://github.com/AnonJr/Minecraft-Villager-Voices/releases
