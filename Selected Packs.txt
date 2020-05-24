@@ -25,6 +25,6 @@ Vanilla Tweaks Resource Packs:
 	SmootherFont
 	OldDamageSounds
 
-Added from elswhere:
+Added from elsewhere:
 	Tame Wolf -> Black Lab from https://www.planetminecraft.com/mob-skin/black-lab-4559911/
 	Custom Villager Voices from https://github.com/AnonJr/Minecraft-Villager-Voices/releases
