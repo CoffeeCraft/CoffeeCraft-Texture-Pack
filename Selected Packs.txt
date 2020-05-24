@@ -5,7 +5,6 @@ Vanilla Tweaks Resource Packs:
 	ClearerWater
 	QuieterDispensersDroppers
 	QuieterMinecarts
-	QuieterVillagers
 	QuieterFire
 	QuieterNetherPortals
 	QuieterWater
