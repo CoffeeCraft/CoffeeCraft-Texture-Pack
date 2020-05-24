@@ -1,6 +1,4 @@
-Vanilla Tweaks Resource Pack
-Version: 1.15
-Packs:
+Vanilla Tweaks Resource Packs:
 	DifferentStems
 	SidewaysNuggets
 	EndlessEndRods
@@ -26,3 +24,6 @@ Packs:
 	SmallerUtilities
 	SmootherFont
 	OldDamageSounds
+
+Added from elswhere:
+	Tame Wolf -> Black Lab from https://www.planetminecraft.com/mob-skin/black-lab-4559911/
