@@ -7,3 +7,6 @@ I've also added the textures for the rotation wrenches, and a couple other small
 
 * Tame Wolf -> Black Lab from <https://www.planetminecraft.com/mob-skin/black-lab-4559911/>
 * Custom Villager Voices from <https://github.com/AnonJr/Minecraft-Villager-Voices/releases>
+* Shield Corrections from <https://www.planetminecraft.com/texture-pack/shield-corrections/>
+* COVID Zombies from <https://www.planetminecraft.com/mob-skin/corona-zombie/>
+* Restock Clock from <https://www.planetminecraft.com/texture-pack/restock-clock/>
