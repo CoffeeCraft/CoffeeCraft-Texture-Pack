@@ -13,6 +13,7 @@ Packs:
 	QuieterPistons
 	QuieterCows
 	Age25Kelp
+	ClearBannerPatterns
 	StickyPistonSides
 	DirectionalHoppers
 	DiminishingTools
@@ -25,6 +26,9 @@ Packs:
 	SmallerUtilities
 	SmootherFont
 	OldDamageSounds
+	ItemHoldFix
+	StonecutterFix
+	VillagerCloakFix
 
 Added from elsewhere:
 	Tame Wolf -> Black Lab from https://www.planetminecraft.com/mob-skin/black-lab-4559911/
