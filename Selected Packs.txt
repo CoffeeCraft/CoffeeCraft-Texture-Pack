@@ -1,5 +1,5 @@
 Vanilla Tweaks Resource Pack
-Version: 1.16
+Version: 1.16.5 v1
 Packs:
 	DifferentStems
 	SidewaysNuggets
@@ -16,6 +16,7 @@ Packs:
 	ClearBannerPatterns
 	StickyPistonSides
 	DirectionalHoppers
+	DirectionalDispensersDroppers
 	DiminishingTools
 	BetterObservers
 	CleanRedstoneDust
@@ -26,12 +27,14 @@ Packs:
 	SmallerUtilities
 	SmootherFont
 	OldDamageSounds
+	SoulSoilSoulCampfire
 	ItemHoldFix
 	StonecutterFix
 	VillagerCloakFix
+	ProperBreakParticles
 
 Added from elsewhere:
 	Tame Wolf -> Black Lab from https://www.planetminecraft.com/mob-skin/black-lab-4559911/
-	Custom Villager Voices from https://github.com/AnonJr/Minecraft-Villager-Voices/releases
+	Custom Villager Voices from https://www.planetminecraft.com/texture-pack/custom-villager-sounds/
 	Shield Corrections from https://www.planetminecraft.com/texture-pack/shield-corrections/
 	Restock Clock from https://www.planetminecraft.com/texture-pack/restock-clock/
