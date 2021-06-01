@@ -1,5 +1,5 @@
 Vanilla Tweaks Resource Pack
-Version: 1.16.5 v1
+Version: 1.16.5 v3
 Packs:
 	DifferentStems
 	SidewaysNuggets
@@ -36,5 +36,7 @@ Packs:
 Added from elsewhere:
 	Tame Wolf -> Black Lab from https://www.planetminecraft.com/mob-skin/black-lab-4559911/
 	Custom Villager Voices from https://www.planetminecraft.com/texture-pack/custom-villager-sounds/
+	Custom Wandering Trader Voices from https://www.planetminecraft.com/texture-pack/custom-wandering-trader-voices/
 	Shield Corrections from https://www.planetminecraft.com/texture-pack/shield-corrections/
 	Restock Clock from https://www.planetminecraft.com/texture-pack/restock-clock/
+	Bug-eyed Totem, Custom Paintings are unpublished changes I've made over time.
