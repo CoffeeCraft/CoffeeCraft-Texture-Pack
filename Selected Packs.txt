@@ -1,5 +1,5 @@
-Vanilla Tweaks Resource Pack
-Version: 1.16.5 v4
+CoffeeCraft Resource Pack
+Version: 1.18.1 v1
 Packs:
 	DifferentStems
 	SidewaysNuggets
@@ -12,28 +12,43 @@ Packs:
 	QuieterWater
 	QuieterPistons
 	QuieterCows
+	DiminishingTools
 	Age25Kelp
 	ClearBannerPatterns
 	StickyPistonSides
 	DirectionalHoppers
 	DirectionalDispensersDroppers
-	DiminishingTools
 	BetterObservers
 	CleanRedstoneDust
-	LowerFire
+	RedstonePowerLevels
+	GroovyLevers
 	LowerShield
+	LowerFire
 	TransparentPumpkin
 	AlternateEnchantGlint
 	SmallerUtilities
+	CleanGlass
+	CleanStainedGlass
+	CleanTintedGlass
 	SmootherFont
 	OldDamageSounds
-	SoulSoilSoulCampfire
-	ItemHoldFix
-	StonecutterFix
-	VillagerCloakFix
-	ProperBreakParticles
 	Beeralis
-	Clean Glass
+	ItemHoldFix
+	ProperBreakParticles
+	VillagerCloakFix
+	HopperBottomFix
+	CatFix
+	SlimeParticleFix
+	BlazeFix
+	SoulSoilSoulCampfire
+	PixelConsistentGuardianBeam
+	PixelConsistentBeaconBeam
+	PixelConsistentXPOrbs
+	PixelConsistentSigns
+	CocoaBeansTopFix
+	CactusBottomFix
+	ConsistentOarColors
+	ItemStitchingFix
 
 Added from elsewhere:
 	Tame Wolf -> Black Lab from https://www.planetminecraft.com/mob-skin/black-lab-4559911/
