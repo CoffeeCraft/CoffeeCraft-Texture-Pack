@@ -12,3 +12,5 @@ I've also added the textures for the rotation wrenches, custom paintings, and a 
 * Shield Corrections from <https://www.planetminecraft.com/texture-pack/shield-corrections/>
 * Restock Clock from <https://www.planetminecraft.com/texture-pack/restock-clock/>
 * Terracotta True from <https://www.planetminecraft.com/texture-pack/re-4074934/>
+
+SHA1: 316c6904b98ab72e57afba0484e3f6dd7c62a124
