@@ -1,54 +1,65 @@
 CoffeeCraft Resource Pack
-Version: 1.18.1 v2
+Version: 1.19.4 v1
 Packs:
-	DifferentStems
-	SidewaysNuggets
+	HDShieldBanners
 	EndlessEndRods
+	SidewaysNuggets
+	DifferentStems
 	ClearerWater
-	QuieterDispensersDroppers
-	QuieterMinecarts
-	QuieterFire
-	QuieterNetherPortals
-	QuieterWater
 	QuieterPistons
+	QuieterWater
+	QuieterNetherPortals
+	QuieterFire
+	QuieterMinecarts
+	QuieterDispensersDroppers
+	QuieterSheep
 	QuieterCows
-	DiminishingTools
-	Age25Kelp
-	ClearBannerPatterns
-	StickyPistonSides
-	DirectionalHoppers
-	DirectionalDispensersDroppers
-	BetterObservers
-	CleanRedstoneDust
-	RedstonePowerLevels
 	GroovyLevers
-	LowerShield
-	LowerFire
-	TransparentPumpkin
+	BetterObservers
+	DirectionalDispensersDroppers
+	StickyPistonSides
+	ClearBannerPatterns
+	Age25Kelp
+	DiminishingTools
 	AlternateEnchantGlint
-	SmallerUtilities
-	CleanGlass
-	CleanStainedGlass
 	CleanTintedGlass
+	CleanStainedGlass
+	CleanGlass
+	SmallerUtilities
+	TransparentPumpkin
+	LowerFire
+	LowerShield
+	WitherHearts
 	SmootherFont
 	OldDamageSounds
 	Beeralis
-	ItemHoldFix
-	ProperBreakParticles
-	VillagerCloakFix
-	HopperBottomFix
-	CatFix
-	SlimeParticleFix
 	BlazeFix
-	SoulSoilSoulCampfire
 	PixelConsistentGuardianBeam
 	PixelConsistentBeaconBeam
-	PixelConsistentXPOrbs
+	CatFix
+	ItemHoldFix
 	PixelConsistentSigns
-	CocoaBeansTopFix
+	PixelConsistentXPOrbs
+	PixelConsistentGhast
 	CactusBottomFix
-	ConsistentOarColors
+	ConsistentTadpoleBucket
+	ConsistentBucketFix
+	DripleafFixSmall
+	DripleafFixBig
 	ItemStitchingFix
+	RedstonePowerLevels
+	CleanRedstoneDust
+	ProperBreakParticles
+	HopperBottomFix
+	DirectionalHoppers
+
+Combined packs:
+	DirectionalHoppers+HopperBottomFix+ProperBreakParticles
+	CleanRedstoneDust+RedstonePowerLevels
+
+
+	CocoaBeansTopFix
+	ConsistentOarColors
 
 Added from elsewhere:
 	Tame Wolf -> Black Lab from https://www.planetminecraft.com/mob-skin/black-lab-4559911/

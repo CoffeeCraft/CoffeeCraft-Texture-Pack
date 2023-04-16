@@ -1,7 +1,7 @@
 # CoffeeCraft-Texture-Pack
-This is the collection of textures used by the <CoffeeCraft.us> server.
+This is the collection of textures used by the <https://CoffeeCraft.us> server.
 
-This is mostly a collection of textures from Vanilla Tweaks, and this shortcut will get you the bulk of them: <https://vanillatweaks.net/share#CUjzTo>
+This is mostly a collection of textures from Vanilla Tweaks, and this shortcut will get you the bulk of them: <https://vanillatweaks.net/share#5KazM6>
 
 I've also added the textures for the rotation wrenches, custom paintings, and a couple other small changes - including:
 
