@@ -14,4 +14,4 @@ I've also added the textures for the rotation wrenches, custom paintings, and a 
 * Terracotta True from <https://www.planetminecraft.com/texture-pack/re-4074934/>
 * Yusuf’s Better Fences from <https://www.9minecraft.net/yusufs-better-fences-resource-pack/>
 
-SHA1: 85b2ac75ad536c141fc269b92a399ce9968d3552
+SHA1: dc670e0e2532fa15919b2618984972336a2f8fb8
