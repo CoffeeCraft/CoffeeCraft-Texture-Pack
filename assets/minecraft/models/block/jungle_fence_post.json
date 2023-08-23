@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/jungle_door_bottom",
+		"particle": "block/jungle_planks"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 16, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 8, 15]},
+			"faces": {
+				"north": {"uv": [2, 0, 4, 16], "texture": "#0"},
+				"east": {"uv": [2, 0, 4, 16], "texture": "#0"},
+				"south": {"uv": [2, 0, 4, 16], "texture": "#0"},
+				"west": {"uv": [2, 0, 4, 16], "texture": "#0"},
+				"up": {"uv": [7, 12, 9, 14], "texture": "#0"},
+				"down": {"uv": [7, 12, 9, 14], "texture": "#0"}
+			}
+		}
+	]
+}

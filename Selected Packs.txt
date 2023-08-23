@@ -1,65 +1,97 @@
 CoffeeCraft Resource Pack
-Version: 1.19.4 v1
+Version: 1.20.1 v1
 Packs:
-	HDShieldBanners
-	EndlessEndRods
-	SidewaysNuggets
-	DifferentStems
-	ClearerWater
-	QuieterPistons
-	QuieterWater
-	QuieterNetherPortals
-	QuieterFire
-	QuieterMinecarts
-	QuieterDispensersDroppers
-	QuieterSheep
-	QuieterCows
-	GroovyLevers
-	BetterObservers
-	DirectionalDispensersDroppers
-	StickyPistonSides
-	ClearBannerPatterns
-	Age25Kelp
-	DiminishingTools
-	AlternateEnchantGlint
-	CleanTintedGlass
-	CleanStainedGlass
-	CleanGlass
-	SmallerUtilities
-	TransparentPumpkin
-	LowerFire
-	LowerShield
-	WitherHearts
-	SmootherFont
-	OldDamageSounds
-	Beeralis
-	BlazeFix
-	PixelConsistentGuardianBeam
-	PixelConsistentBeaconBeam
-	CatFix
-	ItemHoldFix
-	PixelConsistentSigns
-	PixelConsistentXPOrbs
-	PixelConsistentGhast
+	ItemStitchingFix
 	CactusBottomFix
 	ConsistentTadpoleBucket
 	ConsistentBucketFix
 	DripleafFixSmall
 	DripleafFixBig
-	ItemStitchingFix
+	PixelConsistentBat
+	PixelConsistentGhast
+	PixelConsistentWither
+	PixelConsistentXPOrbs
+	BlazeFix
+	SlimeParticleFix
+	DoubleSlabFix
+	Beeralis
+	OldDamageSounds
+	SmootherFont
+	UnobtrusiveRain
+	CleanTintedGlass
+	CleanStainedGlass
+	CleanGlass
+	LowerShield
+	SmallerUtilities
+	AlternateEnchantGlint
+	LowerFire
+	UnobtrusiveSnow
+	TransparentPumpkin
+	DiminishingTools
+	Age25Kelp
+	ClearBannerPatterns
+	StickyPistonSides
+	HungerPreview
+	DirectionalDispensersDroppers
+	BetterObservers
+	GroovyLevers
+	CompassLodestone
+	VisualHoney
+	NoteblockBanners
+	QuieterSheep
+	QuieterCats
+	QuieterChickens
+	QuieterThunder
+	QuieterDispensersDroppers
+	QuieterMinecarts
+	QuieterPistons
+	QuieterWater
+	QuieterNetherPortals
+	QuieterFire
+	GrassSides
+	MyceliumSides
+	PathSides
+	PodzolSides
+	SnowSides
+	CrimsonNyliumSides
+	WarpedNyliumSides
+	CircularSunandMoon
+	TwinklingStars
+	SmootherStones
+	ClearerWater
+	BlackNetherBricks
+	DifferentStems
+	HorizontalNuggets
+	SofterWool
+	BrownLeather
+	RedIronGolemFlowers
+	HDShieldBanners
+	EndlessEndRods
+	UniqueDyes
+	PolishedStonesToBricks
+	PlainLeatherArmor
+	GoldenCrown
+	PhantomElytra
+	ProperBreakParticles
+	DirectionalHoppers
+	SoulSoilSoulCampfire
+	AshlessCampfires
+	DarkUI
+	BrewingGuide
+	DarkerDarkOakLeaves
+	BushyLeaves
 	RedstonePowerLevels
 	CleanRedstoneDust
-	ProperBreakParticles
-	HopperBottomFix
-	DirectionalHoppers
+	NoBowlParticles
+	ItemHoldFix
 
 Combined packs:
-	DirectionalHoppers+HopperBottomFix+ProperBreakParticles
+	ItemHoldFix+NoBowlParticles
 	CleanRedstoneDust+RedstonePowerLevels
-
-
-	CocoaBeansTopFix
-	ConsistentOarColors
+	BushyLeaves+DarkerDarkOakLeaves
+	BrewingGuide+DarkUI
+	AshlessCampfires+SoulSoilSoulCampfire
+	DirectionalHoppers+ProperBreakParticles
 
 Added from elsewhere:
 	Tame Wolf -> Black Lab from https://www.planetminecraft.com/mob-skin/black-lab-4559911/
@@ -68,4 +100,5 @@ Added from elsewhere:
 	Shield Corrections from https://www.planetminecraft.com/texture-pack/shield-corrections/
 	Restock Clock from https://www.planetminecraft.com/texture-pack/restock-clock/
 	Terracotta True from https://www.planetminecraft.com/texture-pack/re-4074934/
+	Yusuf’s Better Fences from https://www.9minecraft.net/yusufs-better-fences-resource-pack/
 	Bug-eyed Totem, Custom Paintings are unpublished changes I've made over time.

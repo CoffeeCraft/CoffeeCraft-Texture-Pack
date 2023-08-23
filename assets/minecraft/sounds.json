@@ -1,0 +1,11 @@
+{
+	"block.bed.change_bedsheets": {
+		"subtitle": "bob.subtitles.item.banner.change_bedsheets",
+		"sounds": [
+			"bob:bedsheets_changed_1",
+			"bob:bedsheets_changed_2",
+			"bob:bedsheets_changed_3",
+			"bob:bedsheets_changed_4"
+		]
+	}
+}
